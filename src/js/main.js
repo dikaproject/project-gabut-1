@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     createStars();
-    const text = "Happy New Year 2024 Sayang ❤️";
+    const text = "Happy New Year 2025 Sayang ❤️";
     typeWriter(text, document.getElementById('title'), () => {
         document.getElementById('title').classList.add('rainbow-text');
         document.getElementById('startButton').style.display = 'block';
